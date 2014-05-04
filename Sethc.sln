@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sethc", "Sethc\Sethc.vcproj", "{E5B796AE-5A5C-4BEF-B7B0-2CAB19EB810D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PayLoad", "PayLoad\PayLoad.vcproj", "{65B695FD-F963-4B7B-A482-1DA18B54F768}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5B796AE-5A5C-4BEF-B7B0-2CAB19EB810D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E5B796AE-5A5C-4BEF-B7B0-2CAB19EB810D}.Debug|Win32.Build.0 = Debug|Win32
+		{E5B796AE-5A5C-4BEF-B7B0-2CAB19EB810D}.Release|Win32.ActiveCfg = Release|Win32
+		{E5B796AE-5A5C-4BEF-B7B0-2CAB19EB810D}.Release|Win32.Build.0 = Release|Win32
+		{65B695FD-F963-4B7B-A482-1DA18B54F768}.Debug|Win32.ActiveCfg = Debug|Win32
+		{65B695FD-F963-4B7B-A482-1DA18B54F768}.Debug|Win32.Build.0 = Debug|Win32
+		{65B695FD-F963-4B7B-A482-1DA18B54F768}.Release|Win32.ActiveCfg = Release|Win32
+		{65B695FD-F963-4B7B-A482-1DA18B54F768}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
